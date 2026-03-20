@@ -1,0 +1,85 @@
+name: "collection_1441"
+instances {
+  id: "go_1"
+  prototype: "/game_objects/00/02/48/19/go_24820.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_2"
+  prototype: "/game_objects/00/02/48/69/go_24870.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_3"
+  prototype: "/game_objects/00/02/48/01/go_24802.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_4"
+  prototype: "/game_objects/00/00/29/04/go_2905.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_5"
+  prototype: "/game_objects/00/02/48/17/go_24818.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_6"
+  prototype: "/game_objects/00/02/18/65/go_21866.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_7"
+  prototype: "/game_objects/00/02/48/89/go_24890.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_8"
+  prototype: "/game_objects/00/02/49/26/go_24927.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_9"
+  prototype: "/game_objects/00/00/86/40/go_8641.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_10"
+  prototype: "/game_objects/00/00/86/41/go_8642.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_11"
+  prototype: "/game_objects/00/00/86/42/go_8643.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_12"
+  prototype: "/game_objects/00/00/86/43/go_8644.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_13"
+  prototype: "/game_objects/00/00/86/44/go_8645.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_14"
+  prototype: "/game_objects/00/00/86/45/go_8646.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}

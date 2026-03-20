@@ -1,0 +1,49 @@
+name: "collection_5180"
+instances {
+  id: "go_1"
+  prototype: "/game_objects/00/02/49/44/go_24945.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_2"
+  prototype: "/game_objects/00/02/48/34/go_24835.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_3"
+  prototype: "/game_objects/00/02/48/35/go_24836.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_4"
+  prototype: "/game_objects/00/02/49/41/go_24942.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_5"
+  prototype: "/game_objects/00/02/48/49/go_24850.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_6"
+  prototype: "/game_objects/00/02/49/21/go_24922.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_7"
+  prototype: "/game_objects/00/02/48/89/go_24890.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}
+instances {
+  id: "go_8"
+  prototype: "/game_objects/00/02/38/95/go_23896.go"
+  position { x: 0.0 y: 0.0 z: 0.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+}

@@ -1,0 +1,47 @@
+script: "/scripts/00/18/gui_script_0019.gui_script"
+max_nodes: 512
+textures {
+  name: "texture_1"
+  texture: "/atlas/00/18/atlas_0019.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/00/19/atlas_0020.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/00/20/atlas_0021.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/15/36/atlas_1537.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/15/37/atlas_1538.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/15/38/atlas_1539.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

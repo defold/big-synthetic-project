@@ -1,0 +1,99 @@
+images {
+  image: "/images/92/image_1993.png"
+}
+images {
+  image: "/images/93/image_1994.png"
+}
+images {
+  image: "/images/94/image_1995.png"
+}
+images {
+  image: "/images/95/image_1996.png"
+}
+images {
+  image: "/images/96/image_1997.png"
+}
+images {
+  image: "/images/97/image_1998.png"
+}
+images {
+  image: "/images/98/image_1999.png"
+}
+images {
+  image: "/images/99/image_2000.png"
+}
+images {
+  image: "/images/00/image_2001.png"
+}
+images {
+  image: "/images/01/image_2002.png"
+}
+images {
+  image: "/images/02/image_2003.png"
+}
+images {
+  image: "/images/03/image_2004.png"
+}
+images {
+  image: "/images/04/image_2005.png"
+}
+images {
+  image: "/images/05/image_2006.png"
+}
+images {
+  image: "/images/06/image_2007.png"
+}
+images {
+  image: "/images/07/image_2008.png"
+}
+images {
+  image: "/images/08/image_2009.png"
+}
+images {
+  image: "/images/09/image_2010.png"
+}
+images {
+  image: "/images/10/image_2011.png"
+}
+images {
+  image: "/images/11/image_2012.png"
+}
+images {
+  image: "/images/12/image_2013.png"
+}
+images {
+  image: "/images/13/image_2014.png"
+}
+images {
+  image: "/images/14/image_2015.png"
+}
+images {
+  image: "/images/15/image_2016.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/92/image_1993.png"
+  }
+  images {
+    image: "/images/93/image_1994.png"
+  }
+  images {
+    image: "/images/94/image_1995.png"
+  }
+  images {
+    image: "/images/95/image_1996.png"
+  }
+  images {
+    image: "/images/96/image_1997.png"
+  }
+  images {
+    image: "/images/97/image_1998.png"
+  }
+  images {
+    image: "/images/98/image_1999.png"
+  }
+  images {
+    image: "/images/99/image_2000.png"
+  }
+}

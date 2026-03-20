@@ -1,0 +1,10 @@
+images {
+  image: "/images/image_0001.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/image_0001.png"
+  }
+}
+                                                                    

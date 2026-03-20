@@ -1,0 +1,27 @@
+images {
+  image: "/images/03/80/69/image_38070.png"
+}
+images {
+  image: "/images/03/79/29/image_37930.png"
+}
+images {
+  image: "/images/03/80/55/image_38056.png"
+}
+images {
+  image: "/images/03/79/43/image_37944.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/03/80/69/image_38070.png"
+  }
+  images {
+    image: "/images/03/79/29/image_37930.png"
+  }
+  images {
+    image: "/images/03/80/55/image_38056.png"
+  }
+  images {
+    image: "/images/03/79/43/image_37944.png"
+  }
+}

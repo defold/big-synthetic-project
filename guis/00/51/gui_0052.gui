@@ -1,0 +1,144 @@
+script: ""
+max_nodes: 512
+textures {
+  name: "texture_1"
+  texture: "/atlas/29/98/atlas_2999.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/01/53/atlas_0154.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/01/54/atlas_0155.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/01/55/atlas_0156.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/16/71/atlas_1672.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/16/72/atlas_1673.atlas"
+}
+textures {
+  name: "texture_7"
+  texture: "/atlas/16/73/atlas_1674.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_2"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_2/anim"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_3"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_3/anim"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_4"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_4/anim"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_5"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_5/anim"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_6"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_6/anim"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT

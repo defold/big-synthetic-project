@@ -1,0 +1,54 @@
+script: "/scripts/00/09/gui_script_0010.gui_script"
+max_nodes: 512
+fonts {
+  name: "font_1"
+  font: "/fonts/00/09/font_0010.font"
+}
+fonts {
+  name: "font_2"
+  font: "/fonts/00/10/font_0011.font"
+}
+textures {
+  name: "texture_1"
+  texture: "/atlas/00/09/atlas_0010.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/00/10/atlas_0011.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/00/11/atlas_0012.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/15/27/atlas_1528.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/15/28/atlas_1529.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/15/29/atlas_1530.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT

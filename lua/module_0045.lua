@@ -1,0 +1,11 @@
+require('lua.53.module_0354')
+require('lua.54.module_0355')
+require('lua.55.module_0356')
+require('lua.56.module_0357')
+require('lua.57.module_0358')
+require('lua.58.module_0359')
+require('lua.59.module_0360')
+require('lua.60.module_0361')
+
+function init(self)
+end

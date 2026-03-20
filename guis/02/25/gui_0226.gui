@@ -1,0 +1,511 @@
+script: ""
+max_nodes: 512
+fonts {
+  name: "font_1"
+  font: "/fonts/00/10/font_0011.font"
+}
+fonts {
+  name: "font_2"
+  font: "/fonts/00/05/font_0006.font"
+}
+textures {
+  name: "texture_1"
+  texture: "/atlas/12/50/atlas_1251.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/17/67/atlas_1768.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/06/75/atlas_0676.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/06/76/atlas_0677.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/06/77/atlas_0678.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/21/93/atlas_2194.atlas"
+}
+textures {
+  name: "texture_7"
+  texture: "/atlas/21/94/atlas_2195.atlas"
+}
+textures {
+  name: "texture_8"
+  texture: "/atlas/21/95/atlas_2196.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_2"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_3"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_3/anim"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_4"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_3"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_5"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_5/anim"
+  parent: "node_2"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_6"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_2"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_7"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_7/anim"
+  parent: "node_3"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_8"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_7"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_9"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+  parent: "node_2"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_10"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_11"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_3/anim"
+  parent: "node_5"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_12"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_2"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_13"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_5/anim"
+  parent: "node_7"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_14"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_15"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_7/anim"
+  parent: "node_5"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_16"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_6"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_17"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+  parent: "node_3"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_18"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_5"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_19"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_3/anim"
+  parent: "node_2"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_20"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_7"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_21"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_5/anim"
+  parent: "node_2"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_22"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_5"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_23"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_7/anim"
+  parent: "node_3"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_TEXT
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_24"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  text: "synthetic"
+  font: "font_2"
+  parent: "node_3"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT

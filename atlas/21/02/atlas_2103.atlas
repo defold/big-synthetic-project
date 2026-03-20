@@ -1,0 +1,21 @@
+images {
+  image: "/images/16/image_1917.png"
+}
+images {
+  image: "/images/03/80/08/image_38009.png"
+}
+images {
+  image: "/images/03/80/24/image_38025.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/16/image_1917.png"
+  }
+  images {
+    image: "/images/03/80/08/image_38009.png"
+  }
+  images {
+    image: "/images/03/80/24/image_38025.png"
+  }
+}

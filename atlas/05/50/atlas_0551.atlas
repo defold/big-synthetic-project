@@ -1,0 +1,99 @@
+images {
+  image: "/images/32/00/image_13201.png"
+}
+images {
+  image: "/images/32/01/image_13202.png"
+}
+images {
+  image: "/images/32/02/image_13203.png"
+}
+images {
+  image: "/images/32/03/image_13204.png"
+}
+images {
+  image: "/images/32/04/image_13205.png"
+}
+images {
+  image: "/images/32/05/image_13206.png"
+}
+images {
+  image: "/images/32/06/image_13207.png"
+}
+images {
+  image: "/images/32/07/image_13208.png"
+}
+images {
+  image: "/images/32/08/image_13209.png"
+}
+images {
+  image: "/images/32/09/image_13210.png"
+}
+images {
+  image: "/images/32/10/image_13211.png"
+}
+images {
+  image: "/images/32/11/image_13212.png"
+}
+images {
+  image: "/images/32/12/image_13213.png"
+}
+images {
+  image: "/images/32/13/image_13214.png"
+}
+images {
+  image: "/images/32/14/image_13215.png"
+}
+images {
+  image: "/images/32/15/image_13216.png"
+}
+images {
+  image: "/images/32/16/image_13217.png"
+}
+images {
+  image: "/images/32/17/image_13218.png"
+}
+images {
+  image: "/images/32/18/image_13219.png"
+}
+images {
+  image: "/images/32/19/image_13220.png"
+}
+images {
+  image: "/images/32/20/image_13221.png"
+}
+images {
+  image: "/images/32/21/image_13222.png"
+}
+images {
+  image: "/images/32/22/image_13223.png"
+}
+images {
+  image: "/images/32/23/image_13224.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/32/00/image_13201.png"
+  }
+  images {
+    image: "/images/32/01/image_13202.png"
+  }
+  images {
+    image: "/images/32/02/image_13203.png"
+  }
+  images {
+    image: "/images/32/03/image_13204.png"
+  }
+  images {
+    image: "/images/32/04/image_13205.png"
+  }
+  images {
+    image: "/images/32/05/image_13206.png"
+  }
+  images {
+    image: "/images/32/06/image_13207.png"
+  }
+  images {
+    image: "/images/32/07/image_13208.png"
+  }
+}

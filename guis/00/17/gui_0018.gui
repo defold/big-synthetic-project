@@ -1,0 +1,83 @@
+script: "/scripts/00/51/gui_script_0052.gui_script"
+max_nodes: 512
+textures {
+  name: "texture_1"
+  texture: "/atlas/00/51/atlas_0052.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/00/52/atlas_0053.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/00/53/atlas_0054.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/15/69/atlas_1570.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/15/70/atlas_1571.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/15/71/atlas_1572.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_2"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_2/anim"
+  parent: "node_1"
+}
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_3"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_3/anim"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT

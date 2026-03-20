@@ -1,0 +1,58 @@
+script: "/scripts/06/gui_script_0007.gui_script"
+max_nodes: 512
+fonts {
+  name: "font_1"
+  font: "/fonts/00/06/font_0007.font"
+}
+fonts {
+  name: "font_2"
+  font: "/fonts/00/07/font_0008.font"
+}
+fonts {
+  name: "font_3"
+  font: "/fonts/00/08/font_0009.font"
+}
+textures {
+  name: "texture_1"
+  texture: "/atlas/00/06/atlas_0007.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/00/07/atlas_0008.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/00/08/atlas_0009.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/15/24/atlas_1525.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/15/25/atlas_1526.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/15/26/atlas_1527.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT

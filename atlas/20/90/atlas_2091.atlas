@@ -1,0 +1,15 @@
+images {
+  image: "/images/03/80/36/image_38037.png"
+}
+images {
+  image: "/images/03/80/07/image_38008.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/03/80/36/image_38037.png"
+  }
+  images {
+    image: "/images/03/80/07/image_38008.png"
+  }
+}

@@ -1,0 +1,70 @@
+script: "/scripts/03/gui_script_0004.gui_script"
+max_nodes: 512
+fonts {
+  name: "font_1"
+  font: "/fonts/03/font_0004.font"
+}
+fonts {
+  name: "font_2"
+  font: "/fonts/00/04/font_0005.font"
+}
+fonts {
+  name: "font_3"
+  font: "/fonts/00/05/font_0006.font"
+}
+textures {
+  name: "texture_1"
+  texture: "/atlas/atlas_0004.atlas"
+}
+textures {
+  name: "texture_2"
+  texture: "/atlas/atlas_0005.atlas"
+}
+textures {
+  name: "texture_3"
+  texture: "/atlas/05/atlas_0006.atlas"
+}
+textures {
+  name: "texture_4"
+  texture: "/atlas/15/21/atlas_1522.atlas"
+}
+textures {
+  name: "texture_5"
+  texture: "/atlas/15/22/atlas_1523.atlas"
+}
+textures {
+  name: "texture_6"
+  texture: "/atlas/15/23/atlas_1524.atlas"
+}
+textures {
+  name: "texture_7"
+  texture: "/atlas/30/39/atlas_3040.atlas"
+}
+textures {
+  name: "texture_8"
+  texture: "/atlas/30/40/atlas_3041.atlas"
+}
+textures {
+  name: "texture_9"
+  texture: "/atlas/30/41/atlas_3042.atlas"
+}
+background_color { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+nodes {
+  position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  rotation { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
+  scale { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  size { x: 64.0 y: 32.0 z: 0.0 w: 1.0 }
+  color { x: 1.0 y: 1.0 z: 1.0 w: 1.0 }
+  type: TYPE_BOX
+  blend_mode: BLEND_MODE_ALPHA
+  id: "node_1"
+  xanchor: XANCHOR_NONE
+  yanchor: YANCHOR_NONE
+  pivot: PIVOT_CENTER
+  layer: ""
+  inherit_alpha: true
+  alpha: 1.0
+  template_node_child: false
+  texture: "texture_1/anim"
+}
+adjust_reference: ADJUST_REFERENCE_PARENT

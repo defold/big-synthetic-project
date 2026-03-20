@@ -1,0 +1,99 @@
+images {
+  image: "/images/20/00/image_12001.png"
+}
+images {
+  image: "/images/20/01/image_12002.png"
+}
+images {
+  image: "/images/20/02/image_12003.png"
+}
+images {
+  image: "/images/20/03/image_12004.png"
+}
+images {
+  image: "/images/20/04/image_12005.png"
+}
+images {
+  image: "/images/20/05/image_12006.png"
+}
+images {
+  image: "/images/20/06/image_12007.png"
+}
+images {
+  image: "/images/20/07/image_12008.png"
+}
+images {
+  image: "/images/20/08/image_12009.png"
+}
+images {
+  image: "/images/20/09/image_12010.png"
+}
+images {
+  image: "/images/20/10/image_12011.png"
+}
+images {
+  image: "/images/20/11/image_12012.png"
+}
+images {
+  image: "/images/20/12/image_12013.png"
+}
+images {
+  image: "/images/20/13/image_12014.png"
+}
+images {
+  image: "/images/20/14/image_12015.png"
+}
+images {
+  image: "/images/20/15/image_12016.png"
+}
+images {
+  image: "/images/20/16/image_12017.png"
+}
+images {
+  image: "/images/20/17/image_12018.png"
+}
+images {
+  image: "/images/20/18/image_12019.png"
+}
+images {
+  image: "/images/20/19/image_12020.png"
+}
+images {
+  image: "/images/20/20/image_12021.png"
+}
+images {
+  image: "/images/20/21/image_12022.png"
+}
+images {
+  image: "/images/20/22/image_12023.png"
+}
+images {
+  image: "/images/20/23/image_12024.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/20/00/image_12001.png"
+  }
+  images {
+    image: "/images/20/01/image_12002.png"
+  }
+  images {
+    image: "/images/20/02/image_12003.png"
+  }
+  images {
+    image: "/images/20/03/image_12004.png"
+  }
+  images {
+    image: "/images/20/04/image_12005.png"
+  }
+  images {
+    image: "/images/20/05/image_12006.png"
+  }
+  images {
+    image: "/images/20/06/image_12007.png"
+  }
+  images {
+    image: "/images/20/07/image_12008.png"
+  }
+}

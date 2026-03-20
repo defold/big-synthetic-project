@@ -1,0 +1,20 @@
+embedded_components {
+  id: "sprite_1"
+  type: "sprite"
+  data: "tile_set: \"/atlas/17/56/atlas_1757.atlas\"\ndefault_animation: \"anim\"\nmaterial: \"/materials/08/material_0009.material\"\nblend_mode: BLEND_MODE_ALPHA\n"
+}
+embedded_components {
+  id: "sprite_2"
+  type: "sprite"
+  data: "tile_set: \"/atlas/17/57/atlas_1758.atlas\"\ndefault_animation: \"anim\"\nmaterial: \"/materials/08/material_0009.material\"\nblend_mode: BLEND_MODE_ALPHA\n"
+}
+embedded_components {
+  id: "sprite_3"
+  type: "sprite"
+  data: "tile_set: \"/atlas/17/58/atlas_1759.atlas\"\ndefault_animation: \"anim\"\nmaterial: \"/materials/08/material_0009.material\"\nblend_mode: BLEND_MODE_ALPHA\n"
+}
+embedded_components {
+  id: "sprite_4"
+  type: "sprite"
+  data: "tile_set: \"/atlas/17/59/atlas_1760.atlas\"\ndefault_animation: \"anim\"\nmaterial: \"/materials/08/material_0009.material\"\nblend_mode: BLEND_MODE_ALPHA\n"
+}

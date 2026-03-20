@@ -1,0 +1,33 @@
+images {
+  image: "/images/03/80/16/image_38017.png"
+}
+images {
+  image: "/images/02/03/11/image_20312.png"
+}
+images {
+  image: "/images/03/79/57/image_37958.png"
+}
+images {
+  image: "/images/03/80/58/image_38059.png"
+}
+images {
+  image: "/images/03/81/09/image_38110.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/03/80/16/image_38017.png"
+  }
+  images {
+    image: "/images/02/03/11/image_20312.png"
+  }
+  images {
+    image: "/images/03/79/57/image_37958.png"
+  }
+  images {
+    image: "/images/03/80/58/image_38059.png"
+  }
+  images {
+    image: "/images/03/81/09/image_38110.png"
+  }
+}

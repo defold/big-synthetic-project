@@ -1,0 +1,63 @@
+images {
+  image: "/images/03/81/18/image_38119.png"
+}
+images {
+  image: "/images/03/80/74/image_38075.png"
+}
+images {
+  image: "/images/03/80/09/image_38010.png"
+}
+images {
+  image: "/images/03/80/75/image_38076.png"
+}
+images {
+  image: "/images/03/80/64/image_38065.png"
+}
+images {
+  image: "/images/03/80/83/image_38084.png"
+}
+images {
+  image: "/images/03/79/41/image_37942.png"
+}
+images {
+  image: "/images/01/66/04/image_16605.png"
+}
+images {
+  image: "/images/03/81/07/image_38108.png"
+}
+images {
+  image: "/images/03/80/02/image_38003.png"
+}
+images {
+  image: "/images/35/39/image_13540.png"
+}
+images {
+  image: "/images/03/81/01/image_38102.png"
+}
+animations {
+  id: "anim"
+  images {
+    image: "/images/03/81/18/image_38119.png"
+  }
+  images {
+    image: "/images/03/80/74/image_38075.png"
+  }
+  images {
+    image: "/images/03/80/09/image_38010.png"
+  }
+  images {
+    image: "/images/03/80/75/image_38076.png"
+  }
+  images {
+    image: "/images/03/80/64/image_38065.png"
+  }
+  images {
+    image: "/images/03/80/83/image_38084.png"
+  }
+  images {
+    image: "/images/03/79/41/image_37942.png"
+  }
+  images {
+    image: "/images/01/66/04/image_16605.png"
+  }
+}
