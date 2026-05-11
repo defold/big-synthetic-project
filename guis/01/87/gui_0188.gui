@@ -54,7 +54,6 @@ nodes {
   alpha: 1.0
   template_node_child: false
   texture: "texture_1/anim"
-  template: "/guis/00/04/96/gui_0497.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -75,7 +74,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_1"
-  template: "/guis/00/04/96/gui_0497.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }

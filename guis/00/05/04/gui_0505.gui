@@ -50,7 +50,6 @@ nodes {
   alpha: 1.0
   template_node_child: false
   texture: "texture_1/anim"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -71,7 +70,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_1"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -91,7 +89,6 @@ nodes {
   template_node_child: false
   texture: "texture_3/anim"
   parent: "node_2"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -112,7 +109,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_1"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -132,7 +128,6 @@ nodes {
   template_node_child: false
   texture: "texture_5/anim"
   parent: "node_2"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -153,7 +148,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_1"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -173,7 +167,6 @@ nodes {
   template_node_child: false
   texture: "texture_7/anim"
   parent: "node_2"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -194,7 +187,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_2"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -214,7 +206,6 @@ nodes {
   template_node_child: false
   texture: "texture_2/anim"
   parent: "node_6"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -235,7 +226,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_9"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -255,7 +245,6 @@ nodes {
   template_node_child: false
   texture: "texture_4/anim"
   parent: "node_10"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -276,7 +265,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_10"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -296,7 +284,6 @@ nodes {
   template_node_child: false
   texture: "texture_6/anim"
   parent: "node_9"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -317,7 +304,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_13"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -337,7 +323,6 @@ nodes {
   template_node_child: false
   texture: "texture_1/anim"
   parent: "node_5"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -358,7 +343,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_2"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -378,7 +362,6 @@ nodes {
   template_node_child: false
   texture: "texture_3/anim"
   parent: "node_11"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -399,7 +382,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_2"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -419,7 +401,6 @@ nodes {
   template_node_child: false
   texture: "texture_5/anim"
   parent: "node_8"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -440,7 +421,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_14"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -460,7 +440,6 @@ nodes {
   template_node_child: false
   texture: "texture_7/anim"
   parent: "node_10"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -481,7 +460,6 @@ nodes {
   text: "synthetic"
   font: "font_1"
   parent: "node_17"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
@@ -501,7 +479,6 @@ nodes {
   template_node_child: false
   texture: "texture_2/anim"
   parent: "node_5"
-  template: "/guis/00/05/05/gui_0506.gui"
 }
 nodes {
   position { x: 0.0 y: 0.0 z: 0.0 w: 1.0 }
